@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <string name="ed_key_input">Input</string>
+    <string name="bt_map">MAP</string>
+
+    <string name="menu_list_option_location">Location</string>
+    <string name="menu_list_option_exit">Exit</string>
+
+    <string name="tv_history">History</string>
+    <string name="tv_latitude">Latitude</string>
+    <string name="tv_longitude">Longitude</string>
+
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_btn_erase">Erase</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_msg_erase">Msg Erase</string>
+    <string name="dialog_msg_cancel">Msg Cancel</string>
+    <string name="dialog_delete_msg">Delete Msg</string>
+</resources>
